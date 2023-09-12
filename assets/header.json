@@ -1,0 +1,14 @@
+{
+  "name"  : "Francisco de Jesus Fernandez Fernandez",
+  "email" : "fernandezfrancisco261@gmail.com",
+  "cel"   : "2721807187",
+  "misionVida": "Ser el mejor programador en Orizaba",
+  "foto": "https://firebasestorage.googleapis.com/v0/b/pruebas-abcf6.appspot.com/o/Imagen%20de%20WhatsApp%202023-09-11%20a%20las%2020.48.36.jpg?alt=media&token=8d33dda8-3381-4073-bf0d-7830615c0fac",
+  "ciudad": "Orizaba, Ver",
+  "pais": "Mexico",
+  "redSocial":"@francisco fernandez",
+  "gradosTitulos": {
+    "grado1": "Técnico",
+    "titulo1": "Titulo en programador"
+  }
+}

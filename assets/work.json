@@ -1,0 +1,38 @@
+[
+    {
+        "Puesto": "Desarrollador JR",
+        "Empresa": "Rodsoft",
+        "Fecha_Inicio": "25/10/2016",
+        "Fecha_Fin": "12/04/2017",
+        "Pais": "Mexico",
+        "Ciudad": "Orizaba",
+        "Logros": [
+            "Crear Api",
+            "Conectar Api"
+        ]
+    },
+    {
+        "Puesto": "Desarrollador JR",
+        "Empresa": "RiuvSoft",
+        "Fecha_Inicio": "03/07/2018",
+        "Fecha_Fin": "12/02/2019",
+        "Pais": "Mexico",
+        "Ciudad": "Córdoba",
+        "Logros": [
+            "Migrar datos a nube",
+            "Crear docker con datos"
+        ]
+    },
+    {
+        "Puesto": "Desarrollador JR",
+        "Empresa": "Facebook",
+        "Fecha_Inicio": "12/02/2019",
+        "Fecha_Fin": "30/03/2020",
+        "Pais": "Mexico",
+        "Ciudad": "Orizaba",
+        "Logros": [
+            "Crear Interfaz",
+            "Subir cambios a producción"
+        ]
+    }
+]
