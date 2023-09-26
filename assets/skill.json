@@ -1,0 +1,40 @@
+[
+    {
+"habiliad"  :  "Habilidades de desarrollo",
+"habilidad1":  "Front-end",
+"habilidades_nesesarias": [
+"Experiencia en angular",
+"Manejo de HTML",
+"Manejo de CSS"
+
+]      
+    },
+
+{
+"habiliad"  :  "Habilidades de desarrollo",
+"habilidad1":  "Back-end",
+"habilidades_nesesarias": [
+"Experiencia con programacion orientada a objetos ",
+"Manejo de python ",
+"Manejo de c, c++",
+"Dominio de Java"
+
+]      
+    },
+
+{
+"habiliad"  :  "Habilidades de Analisis",
+"habilidad1":  "Project Manager",
+"habilidades_nesesarias": [
+"Experiencia con programacion orientada a objetos ",
+"Manejo de reposositorios github ",
+"Manejo de Servidores ",
+"Dominio de Metodologias Agiles "
+
+]      
+    }
+
+
+
+
+]

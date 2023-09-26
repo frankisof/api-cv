@@ -1,0 +1,26 @@
+[
+    {
+"habiliad"  :  "Intereses Academicos ",
+"habilidad1":  "Programacion",
+"interes_nesesarias": [
+"Programacion estructurada",
+"Programacion orientada a objetos ",
+"Programacion logica"
+
+]      
+    }, 
+
+
+   {
+"habiliad"  :  "Intereses Practicos ",
+"habilidad1":  "Manejo de Bases de Datos",
+"interes_nesesarias": [
+"Manejo de bases de datos convencionales SQL ",
+"Manejo de bases de datos no convencionales  ",
+"Manejo de datos en python"
+
+]      
+    }
+
+
+]

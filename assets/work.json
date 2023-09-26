@@ -1,38 +1,40 @@
 [
     {
-        "Puesto": "Desarrollador JR",
-        "Empresa": "Rodsoft",
-        "Fecha_Inicio": "25/10/2016",
-        "Fecha_Fin": "12/04/2017",
+        "Puesto": "Desarrollador ",
+        "Empresa": "tecno motum",
+        "Fecha_Inicio": "234",
+        "Fecha_Fin": "presemte",
         "Pais": "Mexico",
         "Ciudad": "Orizaba",
         "Logros": [
-            "Crear Api",
-            "Conectar Api"
+            "Hacer Api"
+            
         ]
     },
     {
-        "Puesto": "Desarrollador JR",
-        "Empresa": "RiuvSoft",
-        "Fecha_Inicio": "03/07/2018",
-        "Fecha_Fin": "12/02/2019",
+        "Puesto": "Project manager ",
+        "Empresa": "EMPRESA x",
+        "Fecha_Inicio": "FECHA x",
+        "Fecha_Fin": "FECHA X",
         "Pais": "Mexico",
-        "Ciudad": "Córdoba",
+        "Ciudad": "orizaaba",
         "Logros": [
-            "Migrar datos a nube",
-            "Crear docker con datos"
+            "manejo de  nube",
+            "Crear dokers"
         ]
     },
     {
-        "Puesto": "Desarrollador JR",
+        "Puesto": "Arquitecto de software",
         "Empresa": "Facebook",
-        "Fecha_Inicio": "12/02/2019",
-        "Fecha_Fin": "30/03/2020",
+        "Fecha_Inicio": "FECHA X",
+        "Fecha_Fin": "FECHA X",
         "Pais": "Mexico",
         "Ciudad": "Orizaba",
         "Logros": [
             "Crear Interfaz",
-            "Subir cambios a producción"
+            "tirar producción"
         ]
     }
+
+
 ]
